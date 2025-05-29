@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Kadri-Fariz323/Kadri-Fariz323/blob/main/github%20banner.jpg)
 
 <h1 align="center">hey there 👋, I am Fariz</h1>
 
