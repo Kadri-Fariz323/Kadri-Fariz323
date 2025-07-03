@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">🌐 Frontend Languages</h3>
+<h3 align="left">🌐 Frontend </h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">🖥️ Backend Languages</h3>
+<h3 align="left">🖥️ Backend </h3>
 
 ###
 
