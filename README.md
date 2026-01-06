@@ -84,7 +84,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kadri-Fariz323.Kadri-Fariz323&"  />
 </div>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadri-Fariz323)](https://github.com/Kadri-Fariz323/github-readme-stats)
+  [![Fariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadri-Fariz323)](https://github.com/Kadri-Fariz323/github-readme-stats)
 
 
 <div align="center">
