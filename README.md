@@ -88,19 +88,12 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadri-fariz323&show_icons=true&locale=en&layout=compact" alt="kadri-fariz323" /></p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kadri-Fariz323&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadri-fariz323&show_icons=true&locale=en" alt="kadri-fariz323" /></p>
 
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadri-fariz323&" alt="kadri-fariz323" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kadri-Fariz323/Kadri-Fariz323/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kadri-Fariz323/Kadri-Fariz323/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kadri-Fariz323/Kadri-Fariz323/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
