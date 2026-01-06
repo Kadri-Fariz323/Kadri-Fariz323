@@ -3,14 +3,15 @@
 
 
 <h1 align="center">hey there 👋, I am Fariz</h1>
-
+<h3 align="center">Full Stack Developer | CS Engineering @ Atmiya University | AI/ML Enthusiast</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadri-fariz323&label=Profile%20views&color=0e75b6&style=flat" alt="kadri-fariz323" /> </p>
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">Currently diving into Full Stack, AI, and DevOps 💻🤖☁️<br><br>In my free time, I’m at the gym 🏋️, reading 📚, or meeting people 🤝<br><br>Fun fact: Snacks are my debugging fuel 🍪🧠</p>
+<p align="left">Currently diving into Full Stack, AI, and DevOps 💻🤖☁️<br>In my free time, I’m at the gym 🏋️, reading 📚, or meeting people 🤝<br> 📫 How to reach me **farizkadri3@gmail.com** <br>Fun fact: Snacks are my debugging fuel 🍪🧠</p>
 
 ###
 
