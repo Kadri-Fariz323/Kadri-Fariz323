@@ -84,10 +84,20 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kadri-Fariz323.Kadri-Fariz323&"  />
 </div>
 
-  [![Fariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadri-Fariz323)](https://github.com/Kadri-Fariz323/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kadri-Fariz323&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kadri-Fariz323&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadri-Fariz323&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
 
 
 <div align="center">
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kadri-Fariz323&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
