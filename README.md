@@ -84,10 +84,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kadri-Fariz323.Kadri-Fariz323&"  />
 </div>
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadri-Fariz323)](https://github.com/Kadri-Fariz323/github-readme-stats)
 
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadri-Fariz323)](https://github.com/Kadri-Fariz323/github-readme-stats)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kadri-Fariz323&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
