@@ -5,6 +5,7 @@
 
 <h1 align="center">Hey 👋 I'm Fariz</h1>
 <h3 align="center">Full Stack Developer • CS Engineering @ Atmiya University • AI/ML Enthusiast</h3>
+![Uploading Pixels Neon GIF - Pixels Neon Old - Discover & Share GIFs.gif…]()
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kadri-Fariz323&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -13,9 +14,6 @@
 ---
 
 ## 🚀 About Me
-<p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif" height="180"/>
-</p>
 
 - 💻 Exploring **Full Stack, AI/ML & DevOps**
 - 🏫 CS Engineering @ **Atmiya University**
