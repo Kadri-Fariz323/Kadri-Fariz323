@@ -85,9 +85,10 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kadri-Fariz323&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kadri-Fariz323&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadri-Fariz323&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Kadri-Fariz323&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
+![](https://streak-stats.demolab.com?user=Kadri-Fariz323&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadri-Fariz323&layout=compact&theme=dark&cache_seconds=1800)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
