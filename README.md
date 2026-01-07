@@ -3,7 +3,9 @@
   <img src="https://github.com/Kadri-Fariz323/Kadri-Fariz323/blob/main/github%20banner.jpg" />
 </p>
 
-<h1 align="center">Hey 👋 I'm Fariz</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fariz!;" />
+</h1>
 <h3 align="center">Full Stack Developer • CS Engineering @ Atmiya University • AI/ML Enthusiast</h3>
 
 
@@ -54,21 +56,28 @@
 </p>
 
 ---
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kadri-Fariz323/Kadri-Fariz323/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kadri-Fariz323&show_icons=true&theme=dark&cache_seconds=86400" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Kadri-Fariz323&theme=dark" height="165"/>
-</p>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadri-Fariz323&layout=compact&theme=dark&cache_seconds=86400" height="150"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif" height="180"/>
-</p>
+<hr/>
+
+<br/>
 
 ---
 
