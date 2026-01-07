@@ -59,6 +59,7 @@
 
 ## 📊 GitHub Stats
 
+[![Fariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadri-Fariz323)](https://github.com/Kadri-Fariz323/github-readme-stats)
 
 ---
 
